@@ -8,3 +8,6 @@ output_dir -> png파일 저장 위치
 
 Code/Lidar_Detection.py
 pcd파일 하나에 대해서 box생성 후 시각화
+
+Code/Multifile_Lidar_Detection.py
+pcd파일 여러개에 대해서 box생성 후 시각화
